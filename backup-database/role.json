@@ -1,0 +1,24 @@
+{
+   "documents": [
+      {
+         "roleId": 1,
+         "roleName": "User"
+      },
+      {
+         "roleId": 2,
+         "roleName": "Employee"
+      },
+      {
+         "roleId": 3,
+         "roleName": "Admin"
+      },
+      {
+         "roleId": 4,
+         "roleName": "Developer"
+      },
+      {
+         "roleId": 5,
+         "roleName": "Manager"
+      }
+   ]
+}

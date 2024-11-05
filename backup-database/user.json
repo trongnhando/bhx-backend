@@ -1,0 +1,29 @@
+{
+   "documents": [
+      {
+         "username": "user@gmail.com",
+         "password": "123123123",
+         "roleId": 1
+      },
+      {
+         "username": "employee@gmail.com",
+         "password": "123123123",
+         "roleId": 2
+      },
+      {
+         "username": "admin@gmail.com",
+         "password": "123123123",
+         "roleId": 3
+      },
+      {
+         "username": "developer@gmail.com",
+         "password": "123123123",
+         "roleId": 4
+      },
+      {
+         "username": "manager@gmail.com",
+         "password": "123123123",
+         "roleId": 5
+      }
+   ]
+}

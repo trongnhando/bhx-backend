@@ -1,0 +1,49 @@
+{
+   "name": "mern_stack",
+   "version": "1.0.0",
+   "description": "MERN STACK Project",
+   "main": "server.js",
+   "scripts": {
+      "start": "node server.js",
+      "server": "nodemon server.js",
+      "dev": "nodemon server.js",
+      "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+      "lint:fix": "eslint --fix .  --ext .js,.jsx,.ts,.tsx",
+      "format-all": "prettier --write \"./**/*.{js,jsx,ts,tsx,json}\""
+   },
+   "keywords": [],
+   "author": "dtnhan",
+   "license": "ISC",
+   "dependencies": {
+      "@typescript-eslint/eslint-plugin": "^5.59.6",
+      "@typescript-eslint/parser": "^5.59.6",
+      "bcrypt": "^5.1.0",
+      "concurrently": "^8.0.1",
+      "cookie-parser": "^1.4.6",
+      "cors": "^2.8.5",
+      "date-fns": "^2.29.3",
+      "dotenv": "^16.0.3",
+      "eslint": "^8.40.0",
+      "eslint-config-airbnb": "^19.0.4",
+      "express": "^4.18.2",
+      "express-async-handler": "^1.2.0",
+      "express-validator": "^7.0.1",
+      "md5": "^2.3.0",
+      "mongoose": "^7.1.0",
+      "mongoose-sequence": "^5.3.1",
+      "nodemon": "^2.0.22",
+      "uuid": "^9.0.0"
+   },
+   "devDependencies": {
+      "eslint-config-prettier": "^8.8.0",
+      "eslint-plugin-prettier": "^4.2.1",
+      "eslint-plugin-react-hooks": "^4.6.0",
+      "prettier": "^2.8.8"
+   },
+   "eslintConfig": {
+      "extends": [
+         "react-app",
+         "react-app/jest"
+      ]
+   }
+}

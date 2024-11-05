@@ -1,0 +1,20 @@
+{
+   "documents": [
+      {
+         "ageId": 1,
+         "branchId": 1,
+         "skillId": 1,
+         "productName": "product 1",
+         "price": "200000",
+         "describes": "This is product 1",
+         "amount": 100,
+         "images": [
+            "http://res.cloudinary.com/dgc1ya9ud/image/upload/v1686206598/childrenToy/isr6ztu98sdlfcrlte7v.jpg",
+            "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "https://cdn.shopify.com/s/files/1/0070/7032/files/image5_4578a9e6-2eff-4a5a-8d8c-9292252ec848.jpg?v=1620247043",
+            "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=799&q=80",
+            "http://res.cloudinary.com/dgc1ya9ud/image/upload/v1686206598/childrenToy/isr6ztu98sdlfcrlte7v.jpg"
+         ]
+      }
+   ]
+}

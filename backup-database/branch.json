@@ -1,0 +1,34 @@
+{
+   "documents": [
+      {
+         "branchId": 1,
+         "branchName": "MIDEER",
+         "establish": "2000"
+      },
+      {
+         "branchId": 2,
+         "branchName": "AVENIR",
+         "establish": "2000"
+      },
+      {
+         "branchId": 3,
+         "branchName": "TOI WORLD",
+         "establish": "2000"
+      },
+      {
+         "branchId": 4,
+         "branchName": "JOAN MIRO",
+         "establish": "2000"
+      },
+      {
+         "branchId": 5,
+         "branchName": "TOOKY TOY",
+         "establish": "2000"
+      },
+      {
+         "branchId": 6,
+         "branchName": "MOULD KING",
+         "establish": "2000"
+      }
+   ]
+}

@@ -1,0 +1,28 @@
+{
+   "documents": [
+      {
+         "ageId": 1,
+         "ageName": "0-1 Tuổi"
+      },
+      {
+         "ageId": 2,
+         "ageName": "2+ Tuổi"
+      },
+      {
+         "ageId": 3,
+         "ageName": "3+ Tuổi"
+      },
+      {
+         "ageId": 4,
+         "ageName": "4-6 Tuổi"
+      },
+      {
+         "ageId": 5,
+         "ageName": "6-10 Tuổi"
+      },
+      {
+         "ageId": 6,
+         "ageName": "10+ Tuổi"
+      }
+   ]
+}

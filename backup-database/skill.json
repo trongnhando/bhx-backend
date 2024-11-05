@@ -1,0 +1,28 @@
+{
+   "documents": [
+      {
+         "skillId": 1,
+         "skillName": "KHÁM PHÁ"
+      },
+      {
+         "skillId": 2,
+         "skillName": "TƯ DUY LOGIC"
+      },
+      {
+         "skillId": 3,
+         "skillName": "NGHỆ THUẬT HỘI HỌA"
+      },
+      {
+         "skillId": 4,
+         "skillName": "NHANH MẮT KHÉO TAY"
+      },
+      {
+         "skillId": 5,
+         "skillName": "TƯƠNG TÁC XÃ HỘI"
+      },
+      {
+         "skillId": 6,
+         "skillName": "VẬN ĐỘNG"
+      }
+   ]
+}
